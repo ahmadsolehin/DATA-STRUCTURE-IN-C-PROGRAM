@@ -43,3 +43,124 @@ e.	INORDER TRAVERSAL
 •	Starting from smallest value of staff id to the bigger value.
 •	It is also improve the time of access the data.
 
+f.	SORTING
+
+•	Sorting is automatically done in binary tree when staff enter the input in staff attendance system.
+•	It is also improve the time of access the data.
+
+•	Without sorting, it will take a longer time to access the information of the staff attendance system in a large database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+ 
+OUTPUT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOMEPAGE
+
+	Have 3 options (‘1’ for Admin Login, ‘2’ for Staff Login, ‘Esc’ for Exit)
+	The system scan for the char input only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAFF LOGIN PAGE
+	Staff required to enter staff id.
+
+	After user key in the staff id, system will search the staff data is exist or not.
+	If staff data has found, the timeout and duration will be update.
+	If staff data has not found, the system prompt staff to enter staff name and staff ic.
+	The system automatically records the time for the timein and timeout.
+
+
+
+
+
+
+
